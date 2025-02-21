@@ -1,3 +1,6 @@
+#NUN
+![Alt text](ohio.webp)
+
 # Photo to Binary Converter  
 
 ## Overview  
@@ -16,8 +19,6 @@ This project converts images into binary representations, where each pixel's col
 - Required libraries:  
   pillow 
   numpy
-
-![Alt text](ohio.webp)
 
 ### Runner  
 To run this project youll have to do the following
